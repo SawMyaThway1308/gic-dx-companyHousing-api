@@ -55,7 +55,7 @@ class EquipmentController extends Controller
     }
 
     /**
-     * 対象備品リストを取得する
+     * 対象備品リストを取得する、
      *
      * @return JsonResponse 備品リスト
      */
